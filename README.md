@@ -14,7 +14,8 @@ Open terminal (mac instructions):
 * enter
 
 Inside terminal:
-`git clone https://github.com/lizzieshipton/fsnd-movie-website.git`
+
+`git clone https://github.com/lizzieshipton/ud036_StarterCode.git`
 
 `cd ud036_StarterCode`
 
